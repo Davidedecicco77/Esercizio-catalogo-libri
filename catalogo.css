@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+body {
+	background-color: Gray;
+}
+
+#testa {
+	background-color: yellow;
+	text-align: Center;
+	Font-size: 30px;
+	padding: 5px;
+}
+
+#contenitore {
+	background-color: red;
+	width: auto;
+	height: 965px;
+	margin-left: 200px;
+	margin-right: 200px;
+	border: 2px solid black;
+}
+
+#pagina1 {
+	float: left;
+	padding-left: 137px;
+	padding-right:80px;
+	text-align: center;
+	padding-top: 10px;
+	border: 2px solid black;
+}
+
+
+#pagina2 {
+float: left;
+padding-left: 60px;
+padding-right: 60px;
+text-align: center;
+padding-top: 10px;
+border: 2px solid black;
+}
+
+
+#pagina3 {
+	float: left;
+padding-left: 90px;
+padding-right: 115px;
+text-align: center;
+padding-top: 10px;
+border: 2px solid black;
+}
+
+
+#pagina4 {
+	float: left;
+	padding-left: 137px;
+	padding-right:80px;
+	text-align: center;
+	padding-top: 30px;
+	clear: both;
+	border: 2px solid black;
+}
+
+
+#pagina5 {
+float: left;
+padding-left: 60px;
+padding-right: 60px;
+text-align: center;
+padding-top: 30px;
+border: 2px solid black;
+}
+
+
+#pagina6 {
+	float: left;
+padding-left: 90px;
+padding-right: 115px;
+text-align: center;
+padding-top: 30px;
+border: 2px solid black;
+}
+
+
+img.libro {
+	height: 250px;
+	width: 180px;
+	border: 2px solid yellow;
+}
+
+.prezzo {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
